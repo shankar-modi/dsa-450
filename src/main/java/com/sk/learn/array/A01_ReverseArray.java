@@ -1,4 +1,4 @@
-package com.sk.learn;
+package com.sk.learn.array;
 
 import java.util.Arrays;
 
